@@ -1,6 +1,8 @@
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  margin: 1rem
+  font-family: monospace, sans-serif;
+  margin: 1rem;
+  color: white;
+  background-color: #333;
 }
 
 img {
